@@ -1,3 +1,15 @@
+# Viewing and using the DnD Map Generator
+The DnD Map Generator is deployed and can be found at https://dungeon-in-a-jiffy-e9931.web.app/
+
+The Generator is intended to be used with a touch-table or top-down projector for full interaction with in-real-life DnD character minatures. However, the main features can still be observed by doing the following:
+1. Open your first tab/window of the DnD Map Generator
+2. In the "What are you ..?" page, select Dungeon Master option
+3. Create a new game by selecting a theme under "New Game", and click "Create" (alternatively, reload a previously-created game using its Gamecode)
+4. Afterward, you should be directed to the Dungeon Master's view. Copy the Gamecode near the top left into your clipboard
+5. Open another tab/window of the DnD Map Generator, but this time select the Player Option in the "What are you ..?" page
+6. Paste the Gamecode from your clipboard and click "Join Game". This will take you to the Player's view
+7. Now, try changing the fog on the map, the map's visibility, etc. on the Dungeon Master's view, and see those changes propogated onto the Player's view!
+
 # Group 2 
 
 ## Introduction to the Project

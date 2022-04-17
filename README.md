@@ -1,5 +1,5 @@
 # Viewing and using the DnD Map Generator
-The DnD Map Generator is deployed and can be found at https://dungeon-in-a-jiffy-e9931.web.app/
+The DnD Map Generator is deployed and can be found at https://dungeon-in-a-jiffy-e9931.web.app/. A formal description of this project is shown from the end of this section.
 
 The Generator is intended to be used with a touch-table or top-down projector for full interaction with in-real-life DnD character minatures. However, the main features can still be observed by doing the following:
 1. Open your first tab/window of the DnD Map Generator
@@ -10,7 +10,7 @@ The Generator is intended to be used with a touch-table or top-down projector fo
 6. Paste the Gamecode from your clipboard and click "Join Game". This will take you to the Player's view
 7. Now, try changing the fog on the map, the map's visibility, etc. on the Dungeon Master's view, and see those changes propogated onto the Player's view!
 
-# Group 2 
+# Group 2 - Dungeon in a Jiffy
 
 ## Introduction to the Project
 Dungeons and Dragons (D&D) is a co-operative tabletop fantasy role-playing game. Most players play as adventurers/heroes that explore the world by going on quests, fighting monsters and hunting for rewards. One player is the Dungeon Master (DM) who facilitates the game, controls the non-player characters and monsters, and narrates the story. The players traverse the world as figures moving on top of a set-up map, which contains non-playable characters that the players interact with.
